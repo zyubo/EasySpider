@@ -1,0 +1,58 @@
+查看结果——>ini.dat
+处理成可运行
+一直在搜集同一地址怎么办http://blog.sina.com.cn/u/2176627713
+http://blog.sina.com.cn/u/2116762427 已停止
+一直在搜集两个地址怎么办
+
+未搜集就退出:
+ private string getSeed()
+        {
+            string get;
+            if (seed.Count < 2)
+                get = "http://blog.sina.com.cn/lm/rank/";
+            else
+                get = seed.ElementAt(giseed);
+            giseed++;
+            giseed = giseed % 20;
+            //MessageBox.Show("giseed: " + giseed);
+            return get;
+        }
+seed.ElementAt(giseed);此处有错，index 为负或越界
+
+一直在搜集同一地址怎么办http://blog.sina.com.cn/u/2176627713
+public void Stop_AbsThreadManager()
+        {
+            _isRun = false;
+            if(_watchThread!=null)
+                _watchThread.Join();       //阻塞调用线程，直到线程终止为止。
+            foreach (Cyh_ObjThread obj in list)
+            {
+                obj.WorkThread.Stop_WorkThread();
+                obj.Thread.Abort();
+                obj.Thread.Join();
+            }
+            list.RemoveRange(0, list.Count);
+
+        }
+Cyh_ObjThread obj in list此处有错
+
+ while (!done)
+                {
+                    //Open a file for writting
+                    if (File.Exists(System.Environment.CurrentDirectory + "\\" + file_run))
+                        str_run = fi_run.Open(FileMode.Append, FileAccess.Write);
+                    else
+被其他进程所用
+
+terminate()
+
+
+设计：如果某网址导致重复，则从种子文件中删除该网址
+
+ini.txt 大小超出 1k
+
+建立 blacklist.txt 文件
+
+SpiderRestarter.exe 提示按钮  无法启动：请把EasySpider.exe文件放在与本程序（SpiderRestarter.exe）相同的文件夹之下。
+
+为什么单地址循环会停止，双多地址循环不停止？

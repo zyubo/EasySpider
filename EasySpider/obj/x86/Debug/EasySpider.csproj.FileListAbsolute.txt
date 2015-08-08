@@ -1,0 +1,51 @@
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\bin\Debug\EasySpider.exe
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\bin\Debug\EasySpider.pdb
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\obj\x86\Debug\EasySpider.MainForm.resources
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\obj\x86\Debug\EasySpider.Properties.Resources.resources
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\obj\x86\Debug\EasySpider.exe
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\obj\x86\Debug\EasySpider.pdb
+D:\我的文档\Visual Studio 2010\Projects\C#\EasySpider\EasySpider\bin\Debug\EasySpider.exe.config
+C:\Downloads\EasySpider\EasySpider\EasySpider\obj\x86\Debug\EasySpider.exe
+C:\Downloads\EasySpider\EasySpider\EasySpider\obj\x86\Debug\EasySpider.pdb
+C:\Downloads\EasySpider\EasySpider\EasySpider\bin\Debug\EasySpider.exe
+C:\Downloads\EasySpider\EasySpider\EasySpider\bin\Debug\EasySpider.pdb
+C:\Downloads\EasySpider\EasySpider\EasySpider\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Downloads\EasySpider\EasySpider\EasySpider\obj\x86\Debug\EasySpider.MainForm.resources
+C:\Downloads\EasySpider\EasySpider\EasySpider\obj\x86\Debug\EasySpider.Properties.Resources.resources
+C:\Downloads\EasySpider\EasySpider\EasySpider\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Downloads\EasySpider\EasySpider\EasySpider\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Downloads\EasySpider\EasySpider\EasySpider\bin\Debug\EasySpider.exe.config
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\bin\Debug\EasySpider.exe.config
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\obj\x86\Debug\EasySpider.exe
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\obj\x86\Debug\EasySpider.pdb
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\bin\Debug\EasySpider.exe
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\bin\Debug\EasySpider.pdb
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\obj\x86\Debug\EasySpider.MainForm.resources
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\obj\x86\Debug\EasySpider.Properties.Resources.resources
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\obj\x86\Debug\EasySpider.csprojResolveAssemblyReference.cache
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpider\obj\x86\Debug\EasySpider.csproj.GenerateResource.Cache
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpiderX86\EasySpider\bin\Debug\EasySpider.exe.config
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpiderX86\EasySpider\obj\x86\Debug\EasySpider.exe
+C:\Downloads\Course Materials\440\EasySpiderV2\EasySpider\EasySpiderX86\EasySpider\obj\x86\Debug\EasySpider.pdb
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\bin\Debug\EasySpider.exe.config
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.exe
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.pdb
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\bin\Debug\EasySpider.exe
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\bin\Debug\EasySpider.pdb
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.csprojResolveAssemblyReference.cache
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.MainForm.resources
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.Properties.Resources.resources
+C:\Downloads\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.csproj.GenerateResource.Cache
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\bin\Debug\EasySpider.exe.config
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.exe
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.pdb
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\bin\Debug\EasySpider.exe
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\bin\Debug\EasySpider.pdb
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.MainForm.resources
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\EasySpider.Properties.Resources.resources
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\temp\Course Materials\440\EasySpiderV3\EasySpider\obj\x86\Debug\GenerateResource.write.1.tlog

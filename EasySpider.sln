@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EasySpider", "EasySpider\EasySpider.csproj", "{A142D69C-40BB-475E-BF95-AA0E6BD853FF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{21E57502-F2BA-492B-A88D-F48A9E857A51}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A142D69C-40BB-475E-BF95-AA0E6BD853FF}.Debug|x86.ActiveCfg = Debug|x86
+		{A142D69C-40BB-475E-BF95-AA0E6BD853FF}.Debug|x86.Build.0 = Debug|x86
+		{A142D69C-40BB-475E-BF95-AA0E6BD853FF}.Release|x86.ActiveCfg = Release|x86
+		{A142D69C-40BB-475E-BF95-AA0E6BD853FF}.Release|x86.Build.0 = Release|x86
+		{21E57502-F2BA-492B-A88D-F48A9E857A51}.Debug|x86.ActiveCfg = Debug
+		{21E57502-F2BA-492B-A88D-F48A9E857A51}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

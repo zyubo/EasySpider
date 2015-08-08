@@ -1,0 +1,28 @@
+"http://blog.sina.com.cn/u/2200866927#module_12"
+
+
+
+
+	];
+
+	index = 0;
+	change();
+	function change(){
+		var url = urls[index];
+		iframe.setAttribute("src", url);
+		if(index == urls.length - 1){
+			//index = 0;
+			window.close();
+		}else{
+			index ++;
+		}
+		setTimeout(arguments.callee, Math.floor(Math.random()*40000+10000));
+		//setTimeout(arguments.callee, Math.floor(Math.random()*5000+2000));
+	}
+
+</script>
+
+</p>
+</body>
+</html>
+
